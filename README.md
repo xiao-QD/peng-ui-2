@@ -1,5 +1,5 @@
 # peng-ui-2
-peng-ui是一个基于vue3写的UI组件库，技术栈是vue3 + vite + TS（部分用到）。
+peng-ui是一个基于vue3写的UI组件库，技术栈是vue3 + vite + TS（部分用到）。<br>
 
 目前只实现了几个常见的UI组件，例如Switch 切换组，Button按钮组件，Dialog对话框弹窗组件，Tabs切换组件，并设计了项目的官网介绍页以及文档介绍页，下面请看详细介绍。
 
